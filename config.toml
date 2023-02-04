@@ -1,0 +1,4 @@
+baseURL = 'https://mohan43u.github.io/LearnShellScriptintWithUs'
+languageCode = 'en-us'
+title = 'Learn Shell Scripting With Us - Workshop'
+theme = 'ananke'
